@@ -1,5 +1,0 @@
-<<<<<<< HEAD
-this is the first line from main
-=======
-this is a line from dev
->>>>>>> dev
